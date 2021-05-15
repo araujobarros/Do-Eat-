@@ -2,13 +2,14 @@
 
 Este foi o último projeto em grupo do módulo de Front-end da Trybe, onde houve muita cooperação e entrega da parte dos integrantes. O mesmo consiste em uma aplicação de receitas com muitas funcionalidades, como pesquisa por região, por nome da receita, indicação de drinks que possam harmonizar, entre outras. Mas a principal funcionalidade do meu ponto de vista foi a implementação de busca por múltiplas receitas feita com a iniciativa do meu grupo, portanto uma funcionalidade além do que solicitado em requisitos.
 
-## Integrantes:
-- [https://www.linkedin.com/in/ivanildocandido/](#Ivanildo Cândido)
-- [https://www.linkedin.com/in/mateus-coury-90463a163/](#Mateus Coury)
-- [https://www.linkedin.com/in/araujo-barros/](#Edson Araujo)
+### Integrantes:
+- [#Ivanildo Cândido](https://www.linkedin.com/in/ivanildocandido/)
+- [#Mateus Coury](https://www.linkedin.com/in/mateus-coury-90463a163/)
+- [#Edson Araujo](https://www.linkedin.com/in/araujo-barros/)
 
+[Code Review](https://course.betrybe.com/real-life-engineer/code-review/)
 
-## Abaixo seguem as diretrizes sob as quais o projeto foi executado:
+### Abaixo seguem as diretrizes sob as quais o projeto foi executado:
 
 
 # Boas vindas ao repositório do projeto de Receitas!
