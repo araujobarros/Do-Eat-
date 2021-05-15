@@ -11,8 +11,10 @@
 }
 
 .card-title {
+  max-height: 50px;
   font-size: 20px;
   text-align: center;
+  overflow: hidden;
 }
 
 a {
