@@ -1,6 +1,6 @@
 # Resumo
 
-Este foi o último projeto em grupo do módulo de Front-end da Trybe, onde houve muita cooperação e entrega da parte dos integrantes. O mesmo consiste em uma aplicação de receitas com muitas funcionalidades, como pesquisa por região, por nome da receita, indicação de drinks que possam harmonizar, entre outras. Mas a principal funcionalidade do meu ponto de vista foi a implementação de busca por múltiplas receitas feita com a iniciativa do meu grupo, portanto uma funcionalidade além do que solicitado em requisitos.
+Este foi o último projeto em grupo do módulo de Front-end da Trybe, onde houve muita cooperação e entrega da parte dos integrantes. O mesmo consiste em uma aplicação de receitas com muitas funcionalidades, como pesquisa por região, por nome da receita, indicação de drinks que possam harmonizar, entre outras. No entanto, o ponto forte ao meu ver, foi a implementação de busca de receitas por múltiplos ingredientes, idealizada com a iniciativa do meu grupo, portanto além do que solicitado em requisitos.
 
 ### Integrantes:
 - [Ivanildo Cândido](https://www.linkedin.com/in/ivanildocandido/)
