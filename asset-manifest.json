@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Do-Eat-/static/css/main.7f84f607.chunk.css",
+    "main.js": "/Do-Eat-/static/js/main.830f1f3c.chunk.js",
+    "main.js.map": "/Do-Eat-/static/js/main.830f1f3c.chunk.js.map",
+    "runtime-main.js": "/Do-Eat-/static/js/runtime-main.270bd2a8.js",
+    "runtime-main.js.map": "/Do-Eat-/static/js/runtime-main.270bd2a8.js.map",
+    "static/css/2.58b8e955.chunk.css": "/Do-Eat-/static/css/2.58b8e955.chunk.css",
+    "static/js/2.1fe0d6ef.chunk.js": "/Do-Eat-/static/js/2.1fe0d6ef.chunk.js",
+    "static/js/2.1fe0d6ef.chunk.js.map": "/Do-Eat-/static/js/2.1fe0d6ef.chunk.js.map",
+    "index.html": "/Do-Eat-/index.html",
+    "precache-manifest.de981006d6abb529cf06936845c3b6ab.js": "/Do-Eat-/precache-manifest.de981006d6abb529cf06936845c3b6ab.js",
+    "service-worker.js": "/Do-Eat-/service-worker.js",
+    "static/css/2.58b8e955.chunk.css.map": "/Do-Eat-/static/css/2.58b8e955.chunk.css.map",
+    "static/css/main.7f84f607.chunk.css.map": "/Do-Eat-/static/css/main.7f84f607.chunk.css.map",
+    "static/js/2.1fe0d6ef.chunk.js.LICENSE.txt": "/Do-Eat-/static/js/2.1fe0d6ef.chunk.js.LICENSE.txt",
+    "static/media/blackHeartIcon.svg": "/Do-Eat-/static/media/blackHeartIcon.b8913346.svg",
+    "static/media/cookie.svg": "/Do-Eat-/static/media/cookie.5399c99c.svg",
+    "static/media/do.svg": "/Do-Eat-/static/media/do.d38551a9.svg",
+    "static/media/drinkIcon.svg": "/Do-Eat-/static/media/drinkIcon.f87c47c3.svg",
+    "static/media/ea.svg": "/Do-Eat-/static/media/ea.55c60b0c.svg",
+    "static/media/exploreIcon.svg": "/Do-Eat-/static/media/exploreIcon.157945ff.svg",
+    "static/media/hat.svg": "/Do-Eat-/static/media/hat.66634d99.svg",
+    "static/media/it.svg": "/Do-Eat-/static/media/it.5d577512.svg",
+    "static/media/mealIcon.svg": "/Do-Eat-/static/media/mealIcon.b27ba19e.svg",
+    "static/media/profileIcon.svg": "/Do-Eat-/static/media/profileIcon.74e487e5.svg",
+    "static/media/styles.css": "/Do-Eat-/static/media/revicons.2feb69cc.eot",
+    "static/media/searchIcon.svg": "/Do-Eat-/static/media/searchIcon.db812135.svg",
+    "static/media/shareIcon.svg": "/Do-Eat-/static/media/shareIcon.06215ed4.svg",
+    "static/media/whiteHeartIcon.svg": "/Do-Eat-/static/media/whiteHeartIcon.ea3b6ba8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.270bd2a8.js",
+    "static/css/2.58b8e955.chunk.css",
+    "static/js/2.1fe0d6ef.chunk.js",
+    "static/css/main.7f84f607.chunk.css",
+    "static/js/main.830f1f3c.chunk.js"
+  ]
+}
