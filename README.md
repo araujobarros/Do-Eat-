@@ -10,12 +10,6 @@ Este foi o último projeto em grupo do módulo de Front-end da Trybe, onde houve
 ### Abaixo seguem as diretrizes sob as quais o projeto foi executado:
 
 
-### Termos de uso
-
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
-
----
-
 # Boas vindas ao repositório do projeto de Receitas!
 
 ### Termos de uso
