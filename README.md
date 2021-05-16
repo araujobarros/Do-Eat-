@@ -1,3 +1,15 @@
+# Resumo
+
+Este foi o último projeto em grupo do módulo de Front-end da Trybe, onde houve muita cooperação e entrega da parte dos integrantes. O mesmo consiste em uma aplicação de receitas com muitas funcionalidades, como pesquisa por região, por nome da receita, indicação de drinks que possam harmonizar, entre outras. No entanto, o ponto forte ao meu ver, foi a implementação de busca de receitas por múltiplos ingredientes, idealizada com a iniciativa do meu grupo, portanto além do que solicitado em requisitos.
+
+### Integrantes:
+- [Ivanildo Cândido](https://www.linkedin.com/in/ivanildocandido/)
+- [Mateus Coury](https://www.linkedin.com/in/mateus-coury-90463a163/)
+- [Edson Araujo](https://www.linkedin.com/in/araujo-barros/)
+
+### Abaixo seguem as diretrizes sob as quais o projeto foi executado:
+
+
 ### Termos de uso
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
@@ -5,6 +17,12 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e
 ---
 
 # Boas vindas ao repositório do projeto de Receitas!
+
+### Termos de uso
+
+Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+
+---
 
 Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
 
