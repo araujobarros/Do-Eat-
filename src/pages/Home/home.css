@@ -1,11 +1,28 @@
+.list-recipes {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  margin-bottom: 80px;
+}
+
+.list-recipes * {
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.list-recipes * img {
+  width: 80%;
+}
+
+
 @media ( min-width : 500px ) {
 
   .list-recipes {
     display: grid;
     grid-gap: 20px;
     grid-template-columns: repeat(4, 1fr);
-    margin: 20px;
-    margin-bottom: 80px;
   }
 }
 
