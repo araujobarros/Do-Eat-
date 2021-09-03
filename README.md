@@ -2,6 +2,8 @@
 
 Este foi o último projeto em grupo do módulo de Front-end da Trybe, onde houve muita cooperação e entrega da parte dos integrantes. O mesmo consiste em uma aplicação de receitas com muitas funcionalidades, como pesquisa por região, por nome da receita, indicação de drinks que possam harmonizar, entre outras. No entanto, o ponto forte ao meu ver, foi a implementação de busca de receitas por múltiplos ingredientes, idealizada com a iniciativa do meu grupo, portanto além do que solicitado em requisitos.
 
+[Experimente](https://doeat-78254.web.app/)
+
 ### Integrantes:
 - [Ivanildo Cândido](https://www.linkedin.com/in/ivanildocandido/)
 - [Mateus Coury](https://www.linkedin.com/in/mateus-coury-90463a163/)
